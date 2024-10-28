@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TH.NET\\Baitaplon_TH.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74D6C310-9A4E-45B5-BE07-771382F23261}|Baitaplon_TH.NET\\Baitaplon_TH.NET.csproj|d:\\th.net\\baitaplon_th.net\\baitaplon_th.net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74D6C310-9A4E-45B5-BE07-771382F23261}|Baitaplon_TH.NET\\Baitaplon_TH.NET.csproj|solutionrelative:baitaplon_th.net\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\TH.NET\\Baitaplon_TH.NET\\Baitaplon_TH.NET\\Form1.cs",
+              "RelativeDocumentMoniker": "Baitaplon_TH.NET\\Form1.cs",
+              "ToolTip": "D:\\TH.NET\\Baitaplon_TH.NET\\Baitaplon_TH.NET\\Form1.cs [Design]",
+              "RelativeToolTip": "Baitaplon_TH.NET\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:54:31.489Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
